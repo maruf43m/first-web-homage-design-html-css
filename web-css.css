@@ -1,0 +1,72 @@
+body{
+    background-image: url(https://images.pexels.com/photos/956999/milky-way-starry-sky-night-sky-star-956999.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    color: white;
+    scroll-behavior: smooth;
+}
+.main{
+    padding-top: 100px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+h1{
+    font-size: 45px;
+}
+.let{
+    margin-left: 100px;
+    padding: 10px;
+    border-radius: 15px;
+    color: red;
+    background-color: rgb(27, 16, 20);
+}
+.let:hover{
+    background-color: greenyellow;
+}
+.form{
+    background-color: rgb(166, 179, 221);
+    color: black;
+    font-family: arial;
+    border: 2px solid red;
+    width: 400px;
+    text-align: center;
+    margin-top: 20px;
+    padding: 0px 0px 70px 0px;
+    border-radius: 15px;
+    box-shadow: 20px 20px 20px;
+}
+hr{
+    color: red;
+}
+.name{
+    border-radius: 15px;
+    height: 30px;
+}
+.mail{
+    border-radius: 15px;
+    height: 30px;
+}
+.pro{
+    border-radius: 15px;
+    height: 30px;
+}
+.sub{
+    border-radius: 10px;
+    height: 30px;
+    width: 70px;
+    background-color: greenyellow;
+}
+.sub:hover{
+    background-color: red;
+}
+.forma{
+    background-color: lightblue;
+    border: 2px solid red;
+    border-radius: 15px;
+    color: black;
+    text-align: center;
+    width: 400px;
+    padding: 0px 0px 70px 0px;
+    margin: 0 auto 0 auto;
+    margin-top: 20px;
+    box-shadow: 20px 20px 20px;
+    margin-left: 450px;
+    margin-top: -345px;
+}
